@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaStatickeVarijableA\tomcMatijaStatickeVarijableA\bin\Debug\tomcMatijaStatickeVarijableA.exe.config
+C:\Users\Matija\source\repos\tomcMatijaStatickeVarijableA\tomcMatijaStatickeVarijableA\bin\Debug\tomcMatijaStatickeVarijableA.exe
+C:\Users\Matija\source\repos\tomcMatijaStatickeVarijableA\tomcMatijaStatickeVarijableA\bin\Debug\tomcMatijaStatickeVarijableA.pdb
+C:\Users\Matija\source\repos\tomcMatijaStatickeVarijableA\tomcMatijaStatickeVarijableA\obj\Debug\tomcMatijaStatickeVarijableA.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaStatickeVarijableA\tomcMatijaStatickeVarijableA\obj\Debug\tomcMatijaStatickeVarijableA.exe
+C:\Users\Matija\source\repos\tomcMatijaStatickeVarijableA\tomcMatijaStatickeVarijableA\obj\Debug\tomcMatijaStatickeVarijableA.pdb
